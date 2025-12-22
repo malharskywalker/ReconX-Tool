@@ -1,0 +1,12 @@
+TARGET: vulnweb.com
+========================================
+
+SUBDOMAINS:
+
+WHOIS INFORMATION:
+
+EMAILS & OSINT:
+
+LIVE HOSTS:
+
+EXPOSED SERVICES:
