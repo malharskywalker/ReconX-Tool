@@ -120,7 +120,7 @@ testing. The author is not responsible for any misuse or illegal activities.
 👤 Author
 Mallangouda Biradar
 Cybersecurity Enthusiast | VAPT | Bug Bounty
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/malharskywalker
 
 🧠 Future Enhancements
 Structured report export (TXT / JSON)
@@ -132,3 +132,4 @@ Parallel execution for faster recon
 Improved logging and error handling
 
 Integration with additional recon tools
+
