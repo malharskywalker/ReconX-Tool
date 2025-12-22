@@ -45,9 +45,6 @@ reconx/
 ├── output/
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Requirements
@@ -79,13 +76,11 @@ nmap
 ReconX automatically checks for missing tools and provides installation guidance.
 
 ▶️ Usage
-bash
-Copy code
 python3 reconx.py
+
 Example:
 
-text
-Copy code
+
 Enter target domain: testphp.vulnweb.com
 📄 Output
 ReconX displays reconnaissance progress in the terminal and is designed to
