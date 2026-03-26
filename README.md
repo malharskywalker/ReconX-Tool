@@ -58,7 +58,7 @@ reconx/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/reconx.git
+git clone https://github.com/malharskywalker/reconx.git
 cd reconx
 pip3 install -r requirements.txt
 External tools required:
